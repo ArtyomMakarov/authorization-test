@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "authorization-test-94ec4": {
+      "hosting": {
+        "authorization-test": [
+          "authorization-test-94ec4"
+        ]
+      }
+    }
+  }
+}
